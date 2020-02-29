@@ -14,7 +14,7 @@ Strat an iOS/Android app setup in no time!
 
 ## Demo app
 
-![App output on iOS](/src/images/preview.png)
+![App output on iOS](https://raw.githubusercontent.com/asangadev/capacitor-parcel/HEAD/src/images/preview.png)
 
 ## Installation
 ```

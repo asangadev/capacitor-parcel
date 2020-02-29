@@ -1,6 +1,6 @@
 {
   "name": "capacitor-parcel",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Strat an iOS/Android app setup in no time!",
   "main": "index.js",
   "scripts": {
