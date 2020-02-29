@@ -12,7 +12,8 @@ Strat an iOS/Android app setup in no time!
 
 [Capacitor documentation](https://capacitor.ionicframework.com/docs/)
 
-[App output on iOS](/src/images/preview.png)
+## Demo app
+
 ![App output on iOS](/src/images/preview.png?v=1.0.0&s=420)
 
 ## Installation
