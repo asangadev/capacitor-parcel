@@ -14,7 +14,7 @@ Strat an iOS/Android app setup in no time!
 
 ## Demo app
 
-![App output on iOS](/src/images/preview.png?v=1.0.0&s=420)
+![App output on iOS](/src/images/preview.png)
 
 ## Installation
 ```
