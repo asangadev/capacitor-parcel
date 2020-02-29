@@ -1,0 +1,28 @@
+{
+  "name": "parcel-boilerplate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "setup": "parcel build src/index.html -d www",
+    "dev": "parcel src/index.html -d staging",
+    "app": "parcel build src/index.html -d www && npx cap copy"
+  },
+  "keywords": [
+    "parcel boilerplate",
+    "prcel quick start"
+  ],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cssnano": "^4.1.10",
+    "parcel-bundler": "^1.12.4",
+    "sass": "^1.26.2"
+  },
+  "dependencies": {
+    "@capacitor/android": "^1.5.0",
+    "@capacitor/cli": "^1.5.0",
+    "@capacitor/core": "^1.5.0",
+    "@capacitor/ios": "^1.5.0"
+  }
+}
