@@ -9,7 +9,7 @@ Strat an iOS/Android app setup in no time!
 [Capacitor](https://capacitor.ionicframework.com/) is a cross-platform app runtime that makes it easy to build web apps that run natively on iOS, Android, Electron, and the web. We call these apps "Native Progressive Web Apps" and they represent the next evolution beyond Hybrid apps. [documentation](https://capacitor.ionicframework.com/docs/)
 
 [App output on iOS](/src/images/preview.png)
-![App output on iOS](/img/apple_pay.png)
+![App output on iOS](/src/images/preview.png)
 
 ## Installation
 ```
