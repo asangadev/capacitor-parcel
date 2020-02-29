@@ -12,6 +12,9 @@ Strat an iOS/Android app setup in no time!
 
 [Capacitor documentation](https://capacitor.ionicframework.com/docs/)
 
+## Tutorial video
+[Watch the tutorial video on YouTube](https://www.youtube.com/watch?v=VbvQs9JEKF8)
+
 ## Demo app
 
 ![App output on iOS](https://raw.githubusercontent.com/asangadev/capacitor-parcel/HEAD/src/images/preview.png)
