@@ -1,7 +1,7 @@
 {
-  "name": "parcel-boilerplate",
+  "name": "capacitor-parcel",
   "version": "1.0.0",
-  "description": "",
+  "description": "Strat an iOS/Android app setup in no time!",
   "main": "index.js",
   "scripts": {
     "setup": "parcel build src/index.html -d www",
@@ -9,10 +9,11 @@
     "app": "parcel build src/index.html -d www && npx cap copy"
   },
   "keywords": [
-    "parcel boilerplate",
-    "prcel quick start"
+    "capacitor parcel boilerplate",
+    "capacitor quick start app",
+    "capacitor simple app setup with parcel"
   ],
-  "author": "",
+  "author": "capacitor-parcel",
   "license": "ISC",
   "devDependencies": {
     "cssnano": "^4.1.10",
