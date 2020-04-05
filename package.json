@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "setup": "parcel build src/index.html -d www",
-    "dev": "parcel src/index.html -d staging",
+    "dev": "parcel src/index.html -d www",
     "app": "rm -fr www && parcel build src/index.html -d www && npx cap copy"
   },
   "keywords": [
