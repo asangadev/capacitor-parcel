@@ -41,7 +41,8 @@ npx cap open ios
 
 ## Add Android platform
 ```
-npx cap add and
+npx cap add android
+npx cap open android
 ```
 
 ## Test app on browser
